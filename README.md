@@ -1,2 +1,2 @@
 # HackerRank
- A structured repository of HackerRank solutions and learning materials 
+A structured repository of HackerRank solutions and learning materials 
